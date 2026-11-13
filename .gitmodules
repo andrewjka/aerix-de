@@ -1,0 +1,6 @@
+[submodule ".configs/hypr"]
+	path = .configs/hypr
+	url = /home/andrewjka/.config/hypr
+[submodule ".configs/quickshell"]
+	path = .configs/quickshell
+	url = /home/andrewjka/.config/quickshell
